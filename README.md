@@ -37,8 +37,8 @@
 
 ### 📫 Connect with Me
 - GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: YOUR_LINKEDIN_URL
-- Email: YOUR_EMAIL
+- LinkedIn:[ YOUR_LINKEDIN_URL](https://www.linkedin.com/in/garima-dixit25/)
+- Email: garimadixit2502@gmail.com
 
 ---
 
