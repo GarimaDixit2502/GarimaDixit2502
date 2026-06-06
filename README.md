@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Garima</h1>
 
-<!--
-**GarimaDixit2502/GarimaDixit2502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Aspiring Developer | Open Source Enthusiast | Problem Solver</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💫 About Me
+- 🌱 Currently learning and exploring Web Development & Open Source
+- 💻 Interested in building real-world impactful projects
+- 🤝 Eager to collaborate on open-source contributions
+- 🚀 Always learning new technologies and improving my skills
+- 🎯 Goal: To grow as a developer through consistent contributions and teamwork
+
+---
+
+### 🛠️ Tech Stack
+- Languages: C, C++, Java, Python, JavaScript
+- Web: HTML, CSS
+- Tools: Git, GitHub, VS Code
+
+---
+
+### 📌 Interests
+- Open Source Contribution
+- Web Development
+- UI/UX Design
+- Problem Solving
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+</p>
+
+---
+
+### 📫 Connect with Me
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: YOUR_LINKEDIN_URL
+- Email: YOUR_EMAIL
+
+---
+
+⭐ *“Consistency is more important than intensity.”*
