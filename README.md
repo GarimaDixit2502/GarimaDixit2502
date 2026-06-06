@@ -23,21 +23,13 @@
 ### 📌 Interests
 - Open Source Contribution
 - Web Development
-- UI/UX Design
 - Problem Solving
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GarimaDixit2502&show_icons=true" />
-</p>
-
----
-
 ### 📫 Connect with Me
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn:[ YOUR_LINKEDIN_URL](https://www.linkedin.com/in/garima-dixit25/)
+- GitHub: https://github.com/GarimaDixit2502
+- LinkedIn:https://www.linkedin.com/in/garima-dixit25/
 - Email: garimadixit2502@gmail.com
 
 ---
