@@ -14,15 +14,17 @@
 ---
 
 ### 🛠️ Tech Stack
-- Languages: C, C++, Java, Python, JavaScript
-- Web: HTML, CSS
-- Tools: Git, GitHub, VS Code
+- Languages: C, C++, Java, Python, JavaScript, TypeScript
+- Frontend: React.js, Next.js, HTML5, CSS3, Tailwind CSS
+- Backend: Node.js, Flask, REST API Development, API Integration
+- Database: MySQL, PostgreSQL
+- Tools & Platforms: Git, GitHub, Linux
 
 ---
 
 ### 📌 Interests
 - Open Source Contribution
-- Web Development
+- full stack Web Development
 - Problem Solving
 
 ---
